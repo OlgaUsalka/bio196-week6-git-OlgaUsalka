@@ -33,4 +33,5 @@ The script checks sample identifiers and prints the number of samples in each co
 ## Data policy
 Raw sequencing data, private data, credentials, and large generated files must not be committed
 
+## Commit 4
 README.md was fully submitted initially, and this line indicates changes in the file for Q7.
